@@ -1,6 +1,6 @@
 # powpey
 
-Repositório para o projeto desenvolvido em Flutter: "Powpey - O seu app de finanças."
+Repositório para o projeto desenvolvido em Flutter: "POWPEY - O seu app de finanças."
 
 ## Getting Started
 
