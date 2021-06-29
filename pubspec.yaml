@@ -1,5 +1,5 @@
 name: powpey
-description: A new Flutter project.
+description: O seu app de finanças.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -23,11 +23,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+ 
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  color_wand: ^0.0.4
+  colorful_safe_area: ^0.3.0
+  flutter_svg: ^0.22.0
 
 dev_dependencies:
   flutter_test:
@@ -38,6 +42,12 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  assets:
+     - assets/icons/trending-up.svg
+     - assets/icons/testefinal.svg
+     - assets/icons/dollar.svg
+     - assets/icons/facebook.svg
+     - assets/icons/google.svg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
