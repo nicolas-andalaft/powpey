@@ -48,6 +48,8 @@ flutter:
      - assets/icons/dollar.svg
      - assets/icons/facebook.svg
      - assets/icons/google.svg
+     - assets/icons/arrowd.svg
+     - assets/icons/chevronsr.svg
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
