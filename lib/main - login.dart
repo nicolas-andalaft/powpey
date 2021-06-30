@@ -10,9 +10,7 @@ void main() {
     statusBarIconBrightness: Brightness.light,
     statusBarBrightness: Brightness.light,
     statusBarColor: Colors.transparent,
-    systemNavigationBarColor: Colors.transparent,
   ));
-  SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.top]);
   runApp(MyApp());
 }
 
